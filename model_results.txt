@@ -1,0 +1,8 @@
+Model Evaluation Results:
+Model, MAE, MSE, R2
+Linear Regression, 6.85, 206.63, 0.26
+Random Forest, 1.78, 19.37, 0.93
+Gradient Boosting, 4.19, 54.53, 0.80
+Support Vector Regression, 4.74, 168.86, 0.39
+K-Nearest Neighbors, 2.73, 42.13, 0.85
+MLP Regressor, 3.16, 29.00, 0.90
